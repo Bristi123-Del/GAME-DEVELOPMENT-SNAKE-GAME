@@ -60,3 +60,5 @@ Simple system monitoring interfaces
 
 4. Learning Tool
 This game serves as a practical way for students to learn about loops, conditionals, enums, structs, and input handling—key programming fundamentals. It also introduces the concept of state machines, essential in software engineering.
+
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/28a36e49-6cec-4424-acd2-78a91ee8241e)
